@@ -31,3 +31,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Stripe
 
 ## Screenshots
+
+!["Screenshot of home page"](https://github.com/Staxisfun/jungle-rails/blob/master/docs/jungle-home-page.png?raw=true)
+!["Screenshot of products page"](https://github.com/Staxisfun/jungle-rails/blob/master/docs/jungle-products-page.png?raw=true)
+!["Screenshot of product-detail page"](https://github.com/Staxisfun/jungle-rails/blob/master/docs/jungle-product-details-page.png?raw=true)
+!["Screenshot of my-cart page"](https://github.com/Staxisfun/jungle-rails/blob/master/docs/jungle-my-cart-page.png?raw=true)
